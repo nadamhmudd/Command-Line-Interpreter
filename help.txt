@@ -1,0 +1,29 @@
+clear: Display Information about built in commands & Takes no Arguments
+
+cd: Changes the current Directory to new dic & one Argument:The new Directory Path
+
+ls: List each given file or directory name & Takes no Arguments
+
+cp: If the last argument names an existing directory, cp copies each other given file into a file with the same name in that directory & Two Arguments:(The Source path,The Destination Path)
+
+mv: If the last argument names an existing directory, mv moves each other given file into a file with the same name in that directory. & 1st Argument: The Source path / 2nd Argument: THe Destination Path
+
+rm removes each specified File or Directory & one Argument: The File or Directory path to be removed
+
+mkdir: Creates a directory with the given name & one Argument: The New Directory Path even if parent doesn't exist
+
+rmdir: Removes each given empty directory & one Argument: The Path to be removed
+
+cat: Concatenate files and print on the standard output & Arguments: The Files to be concatenated
+
+more: display and scroll down the output in one direction only & Takes no Arguments
+
+pwd: Display current user directory & Takes no Arguments
+
+args: Display The arguments of the following cmd & one Argument: cmd-The command instruction
+
+date: Display The Current Date and Time & Takes no Arguments
+
+help: Display Information about built in commands & Takes no Arguments
+
+exit: Exit the Shell & Takes no Arguments
